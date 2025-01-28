@@ -80,7 +80,3 @@ For detailed instructions, visit the [Qdrant website](https://qdrant.tech/).
 1. **Memory Buffer**: Utilize the memory buffer for fast data retrieval.
 2. **Huge Data Storage**: Store and retrieve large datasets efficiently using the vector database.
 3. **Models**: Use Faster Whisper for speech recognition and Mistral for natural language processing.
-
-## Contributing
-
-Contributions are welcome! Feel free to submit pull requests or open issues for any improvements or suggestions.
